@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jappix xmlns="jappix:api:version">
+	<id>Spaco [0.9]</id>
+	<url>http://download.jappix.org/jappixorg/jappix-0.9-spaco.tar.bz2</url>
+	<url2>http://download.jappix.org/jappixorg/jappix-0.9-spaco.zip</url2>
+	<description>Jappix Suno is the most advanced XMPP web-client in the world! Furthermore, it is a complete distributed social platform.\n\nThis new version provides lots of bugfixes. Users are now able to send files to other Jappix users with the new Out of Band Data file transfer feature.\n\nEnjoy the end of the summer!
+	</description>
+</jappix>
