@@ -1,3 +1,3 @@
 <h1>Create your own Jappix node!</h1>
 
-explications about how to create a jappix node, a xmpp server. how to contribute by using the git version
+<p>This page will explyou how to create your own Jappix node on your own XMPP server. And how to contribute using GitHub ! the page is not writen, yet…</p>
